@@ -1,0 +1,4 @@
+# CaT--A-Deep-Learning-based-system-for-rare-malignant-ocular-surface-tumors-screening
+**CaT TEAM** of Zhongshan Ophthalmic Center collected data to develope CaT system for rare malignant ocular surface tumors screening. Relative data and code can be accessed for requests from verified academic researchers for noncommercial and scientific research purposes.
+
+**Researchers** should sign a license together with completing a data/code access form for their intended study when request the data or code via email to (linht5@mail.sysu.edu.cn). Submitted license and data/code access forms will be reviewed by CaT TEAM to verify whether the request is subject to any intellectual property, privacy protection, or confidentiality obligations. For requests from verified academic researchers, access will be granted within one month.
